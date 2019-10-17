@@ -1,0 +1,1 @@
+A simple Ruby program for testing the [RubyMine profiler](https://www.jetbrains.com/help/ruby/cpu-profiler.html).
